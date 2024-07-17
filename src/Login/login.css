@@ -1,0 +1,15 @@
+
+.container {
+    margin-top: 50px;
+}
+.form-check-label {
+    cursor: pointer;
+}
+.form-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-buttons button {
+    margin-right: 5px;
+}
