@@ -13,3 +13,18 @@
 .form-buttons button {
     margin-right: 5px;
 }
+
+.signup-link {
+    color: blue;
+    text-decoration: underline;
+}
+
+.btn-sm {
+    width: auto;
+    padding: 5px 10px;
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+}

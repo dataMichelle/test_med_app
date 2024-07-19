@@ -2,3 +2,8 @@
 .right-align {
     text-align: right;
 }
+
+.login-link {
+    color: blue;
+    text-decoration: underline;
+}
